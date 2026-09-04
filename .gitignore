@@ -33,4 +33,4 @@ yarn-error.log*
 *.sw?
 
 # Local test/sample translation data (not part of the repo)
-/Translation Files/
+/Translation Files*/
